@@ -18,6 +18,15 @@
   <name>Chef Sinatra Jenkins plugin</name>
   <description>Chef Sinatra Jenkins plugin</description>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/Chef+Sinatra+Jenkins+Plugin</url>
+  
+   <developers>
+    <developer>
+      <id>irfanjs</id>
+      <name>Irfan Sayed</name>
+      <email>irfu.sayed@gmail.com</email>
+    </developer>
+  </developers>
+  
   <licenses>
     <license>
       <name>MIT License</name>
